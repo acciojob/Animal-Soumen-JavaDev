@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
-#main-container{
+#animal-photos{
 	background-color:rgb(0,2,44,9);
 
 }
 #image-container{
 	padding:20px;
 }
-h1{
+#photo-heading{
 	color:white;
 	text-align:center;
 }
